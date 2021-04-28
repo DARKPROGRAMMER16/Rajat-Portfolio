@@ -1,9 +1,11 @@
 import React, { Fragment } from 'react'
+import Navbar from './components/Navbar'
+import './App.css'
 
 const App = () => {
   return (
     <Fragment>
-      <h1>hello aliens this home page.</h1>
+      <Navbar/>
     </Fragment>
   )
 }
