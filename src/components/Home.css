@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.container {
+    height: 91vh;
+    /* background-color: aqua; */
+}
+
+#UName{
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 5.5rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+#desc{
+    font-family: 'Share Tech Mono', monospace;
+    color: cyan;
+}
+
+.icons i{
+    font-size: 23px;
+    color: black;
+    padding: 8px 15px;
+    transition: 0.5s;
+}
+
+.icons i:hover{
+    transition: 0.3s;
+    font-size: 30px;
+}
+
+#fb:hover{
+    transition: 0.3s;
+    color:#4267B2;
+}
+#ig:hover{
+    transition: 0.3s;
+    color:blueviolet
+}
+#ln:hover{
+    transition: 0.3s;
+    color:blue;
+}
+#tw:hover{
+    transition: 0.3s;
+    color: #1DA1F2;
+}
+
