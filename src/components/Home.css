@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
-.container {
-    height: 91vh;
+.home2 {
+    height: 100vh;
     /* background-color: aqua; */
 }
 
@@ -40,7 +40,7 @@
 }
 #ln:hover{
     transition: 0.3s;
-    color:blue;
+    color:rgb(0, 64, 255);
 }
 #tw:hover{
     transition: 0.3s;

@@ -1,0 +1,49 @@
+.about{
+    color: white;
+}
+.aboutH h1{
+    font-size: 50px;
+}
+.bullet_points strong{
+    font-size: 20px;
+}
+
+.bullet_points ul li::before{
+    content: "\2192 \0020";
+    color: chartreuse;
+    font-weight: 900;
+    /* padding: 0 1em; */
+}
+.bullet_points ul{
+    list-style: none;
+    padding: 0 1em;
+}
+.about_me_para p{
+    font-size: 20px;
+}
+
+.skills{
+    color: white;
+}
+.skills h1{
+    color: white;
+}
+.interests{
+    color: white;
+}
+
+#icard .card{
+    border-radius: 0;
+    /* box-shadow: 5px 5px 15px darkcyan; */
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    width: 100%;
+    border: none;
+}
+
+#icard i{
+    font-size: 25px;
+}
+#icard span{
+    font-size: 20px;
+}

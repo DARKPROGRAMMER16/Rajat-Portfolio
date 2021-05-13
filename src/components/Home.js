@@ -7,8 +7,8 @@ const Home = () => {
 
     return (
         <Fragment>
-        <div className="home bg-dark">            
-            <div className="container">
+        <div className="home">            
+            <div className="container home2">
                 <div className="row h-100">
                     <div className="col-sm-12 my-auto">
                         <div className="text-center">
