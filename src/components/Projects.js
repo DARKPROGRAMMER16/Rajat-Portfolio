@@ -7,7 +7,7 @@ import ProjectCard from './ProjectCard'
 const Projects = () => {
     return (
         <Fragment>
-            <div className="projects my-5">
+            <div className="projects my-5" id="projects">
                 <div className="container">
                    <h1 className="text-center">My Projects</h1>
                    <div className="row">

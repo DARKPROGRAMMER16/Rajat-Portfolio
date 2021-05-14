@@ -1,0 +1,22 @@
+.contact{
+    color: white;
+}
+
+.contact input{
+    background-color: black;
+    border: none;
+    border-bottom: 1px solid white;
+    color: white;
+}
+.contact input::placeholder{
+    color: rgba(255, 255, 255, 0.669);
+}
+.contact textarea::placeholder{
+    color: rgba(255, 255, 255, 0.669);
+}
+.contact textarea{
+    background-color: black;
+    border: none;
+    border-bottom: 1px solid white;
+    color: white;
+}
