@@ -22,10 +22,10 @@ const Home = () => {
                                     }}
                             /></h3>
                             <div className="icons mt-3">
-                                <a href="/"><i className="fa fa-facebook" id="fb"></i></a>
-                                <a href="/"><i className="fa fa-instagram" id="ig"></i></a>
-                                <a href="/"><i className="fa fa-linkedin" id="ln"></i></a>
-                                <a href="/"><i className="fa fa-twitter" id="tw"></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=100009558967585" target="_blank"><i className="fa fa-facebook" id="fb"></i></a>
+                                <a href="https://www.instagram.com/rajat16.rd/" target="_blank"><i className="fa fa-instagram" id="ig"></i></a>
+                                <a href="https://www.linkedin.com/in/rajatdash/" target="_blank"><i className="fa fa-linkedin" id="ln"></i></a>
+                                <a href="https://twitter.com/RajatDa80677237" target="_blank"><i className="fa fa-twitter" id="tw"></i></a>
                             </div>
                         </div>
                     </div>

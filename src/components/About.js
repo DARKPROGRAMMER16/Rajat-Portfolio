@@ -34,9 +34,10 @@ const About = () => {
                                </div>
                            </div>
                            <div className="about_me_para text-center mt-3">
-                               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex cumque atque sed repellendus ipsum dignissimos nobis eaque, nihil ullam possimus!</p>
-                               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate sapiente nemo modi dolores beatae quisquam, iusto doloremque suscipit ad atque!</p>
-                               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate sapiente nemo modi dolores beatae quisquam, iusto doloremque suscipit ad atque!</p>
+                               <p>Greetings Everyone !</p>
+                               <p>I am Rajat Dash, I am 19 years old. I am pursuing my B.  tech degree in Computer Science branch from a very reputed college in Delhi NCR, India. </p>
+                               <p>I am a junior full-stack developer, I love building interfaces and code interactive productions.</p>
+                               <p>I’m looking for a full-time or part-time internship as a full-stack developer, (to be more specific as a backend developer).</p>
                            </div>
                        </div>
                    </div>
