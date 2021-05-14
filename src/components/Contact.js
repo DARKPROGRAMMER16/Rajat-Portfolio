@@ -19,7 +19,7 @@ const Contact = () => {
 
     return (
         <Fragment>
-            <div className="contact my-5" id="contact">
+            <div className="contact my-5" id="contact" data-aos="zoom-in">
                 <div className="container text-center">
                     <h1 className="text-center">Contact Me</h1>
                     <form onSubmit={sendEmail}>

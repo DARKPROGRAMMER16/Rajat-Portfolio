@@ -6,7 +6,7 @@ import ProgressBar from './ProgressBar'
 const About = () => {
     return (
        <Fragment>
-        <div className="about m-5" id="about">
+        <div className="about m-5" id="about" data-aos="fade-left">
                <div className="container">
                    <div className="row">
                        <div className="col-md-6 mb-5">
@@ -43,7 +43,7 @@ const About = () => {
                </div>
            </div>
         
-        <div className="skills m-5">
+        <div className="skills m-5" data-aos="fade-up">
             <div className="container">
                 <div className="row">
                     <div className="col-md-3">

@@ -7,7 +7,7 @@ const Home = () => {
 
     return (
         <Fragment>
-        <div className="home" id="home">            
+        <div className="home" id="home" data-aos="fade-right">            
             <div className="container home2">
                 <div className="row h-100">
                     <div className="col-sm-12 my-auto">
