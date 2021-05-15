@@ -19,7 +19,7 @@ const About = () => {
                                <div className="row">
                                    <div className="col-md-6">
                                        <ul>
-                                           <li><strong>Age : </strong>20</li>
+                                           <li><strong>Age : </strong>19</li>
                                            <br />
                                            <li><strong>City : </strong>New Delhi</li>
                                        </ul>
