@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 import './Projects.css'
 import IMG from '../assets/images/cod.png'
 import IMG2 from '../assets/images/rtc.png'
+import IMG3 from '../assets/images/rtvc.png'
 import ProjectCard from './ProjectCard'
 
 const Projects = () => {
@@ -24,6 +25,13 @@ const Projects = () => {
                             subdesc="simple on time chat app"
                             desc="A simple NodeJS and Socket.io based chat application that allows the user connect with others in real time and have conversations."
                             link="https://rtc-2.herokuapp.com/"
+                        />
+                        <ProjectCard
+                            img={IMG3}
+                            title="Real-time Video Calling App"
+                            subdesc="simple and minimilistic video calling app"
+                            desc="A video calling web app built on with the help of Socket.io and Peerjs as in backend technology and Reactjs for frontend interaction."
+                            link="https://real-time-video-chat-app.netlify.app/"
                         />
                    </div>
                 </div>
