@@ -25,6 +25,9 @@ const Navbar = () => {
                         <li className="nav-item">
                             <a className="nav-link" href="#contact"><p>Contact</p></a>
                         </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="https://drive.google.com/file/d/1Tx7wWyCswsHlE4w5Ou7Fhesy66lyQLdd/view?usp=sharing" target="_blank" rel="noopener noreferrer"><p>Resume</p></a>
+                        </li>
                         
                     </ul>
                 </div>

@@ -25,7 +25,7 @@ const Home = () => {
                                 <a href="https://www.facebook.com/profile.php?id=100009558967585" target="_blank" rel="noreferrer"><i className="fa fa-facebook" id="fb"></i></a>
                                 <a href="https://www.instagram.com/rajat16.rd/" target="_blank" rel="noreferrer"><i className="fa fa-instagram" id="ig"></i></a>
                                 <a href="https://www.linkedin.com/in/rajatdash/" target="_blank" rel="noreferrer"><i className="fa fa-linkedin" id="ln"></i></a>
-                                <a href="https://twitter.com/RajatDa80677237" target="_blank" rel="noreferrer"><i className="fa fa-twitter" id="tw"></i></a>
+                                <a href="https://github.com/DARKPROGRAMMER16" target="_blank" rel="noreferrer"><i className="fa fa-github" id="tw"></i></a>
                             </div>
                         </div>
                     </div>
