@@ -3,6 +3,7 @@ import './Projects.css'
 import IMG from '../assets/images/cod.png'
 import IMG2 from '../assets/images/rtc.png'
 import IMG3 from '../assets/images/rtvc.png'
+import IMG4 from '../assets/images/krypt.png'
 import ProjectCard from './ProjectCard'
 
 const Projects = () => {
@@ -32,6 +33,13 @@ const Projects = () => {
                             subdesc="simple and minimilistic video calling app"
                             desc="A video calling web app built on with the help of Socket.io and Peerjs as in backend technology and Reactjs for frontend interaction."
                             link="https://real-time-video-chat-app.netlify.app/"
+                        />
+                        <ProjectCard
+                            img={IMG4}
+                            title="Krypt - A Ethereum Exchange App"
+                            subdesc="simple and basic ethereum exchange web application"
+                            desc="A Web App built on ReactJs with Vite HMR and Solidity for blockchain interactions and exchange operations."
+                            link="https://krypt-web3.netlify.app/"
                         />
                    </div>
                 </div>
