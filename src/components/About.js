@@ -19,7 +19,7 @@ const About = () => {
                                <div className="row">
                                    <div className="col-md-6">
                                        <ul>
-                                           <li><strong>Age : </strong>19</li>
+                                           <li><strong>Age : </strong>21</li>
                                            <br />
                                            <li><strong>City : </strong>New Delhi</li>
                                        </ul>
@@ -35,9 +35,9 @@ const About = () => {
                            </div>
                            <div className="about_me_para text-center mt-3">
                                <p>Greetings Everyone !</p>
-                               <p>I am Rajat Dash, I am 19 years old. I am pursuing my B.  tech degree in Computer Science branch from a very reputed college in Delhi NCR, India. </p>
+                               <p>I am Rajat Dash, I am a final year student pursuing my B.tech degree in Computer Science branch from a very reputed college in Delhi NCR, India. </p>
                                <p>I am a junior full-stack developer, I love building interfaces and code interactive productions.</p>
-                               <p>I’m looking for a full-time or part-time internship as a full-stack developer, (to be more specific as a backend developer).</p>
+                               <p>Currently I am working as a Full time Full Stack Developer.</p>
                            </div>
                        </div>
                    </div>
